@@ -20,3 +20,13 @@ $$
 参考URL：
 
 - [GithubのREADMEとかwikiで数式を書く](http://idken.net/posts/2017-02-28-math_github/)
+
+## Git管理下に置きたくないファイルがある
+
+workspace直下に`.gitignore`ファイルを作成し、当該ファイルパスを記載しておく。  
+また、`.gitignore`自身も記載することで、自身も隠すことができる。
+
+参考URL：
+
+- [Visual studio codeで.vscodeディレクトリをgit管理から外す](https://qiita.com/EngTks/items/a4f875956f0b087668f6)
+- [リモートブランチに.gitignoreをpushせずに管理する方法](https://qiita.com/Nshota/items/08d423d9681fe9cfd744)
