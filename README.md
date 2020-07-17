@@ -6,6 +6,7 @@ githubの知見を色々書いていく予定。
 ## README.mdで数式を表現したい
 
 README.mdで数式をmarkdown形式で入力すると、以下のようになってしまう。
+
 $$
     e^{i\theta} = \cos{\theta} +i\sin{\theta}
 $$
