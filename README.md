@@ -15,7 +15,7 @@ $$
 画像化する際は、[CODECOGS](https://www.codecogs.com/latex/eqneditor.php)というサービスが便利。  
 ここで、数式を画像化して、その際のURLを貼り付けると、以下のようになる。
 
-<img src="https://latex.codecogs.com/gif.latex?e^{i\theta}&space;=&space;\cos{\theta}&space;&plus;&space;i\sin{\theta}" />
+<img src="https://latex.codecogs.com/gif.latex?e^{i\theta}&space;=&space;\cos{\theta}&space;&plus;&space;i\sin{\theta}" title="(1)" />
 
 参考URL：
 
