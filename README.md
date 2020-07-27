@@ -1,5 +1,7 @@
 # test
 
+test2
+
 github練習用リポジトリ。  
 githubの知見を色々書いていく予定。
 
