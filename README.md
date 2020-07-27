@@ -8,7 +8,9 @@ githubの知見を色々書いていく予定。
 README.mdで数式をmarkdown形式で入力すると、以下のようになってしまう。
 
 $$
-    e^{i\theta} = \cos{\theta} +i\sin{\theta}
+    \begin{equation}
+        e^{i\theta} = \cos{\theta} +i\sin{\theta}
+    \end{equation}
 $$
 
 これを回避するためには、数式を画像化して貼る必要がある。  
