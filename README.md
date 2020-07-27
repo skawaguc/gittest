@@ -26,6 +26,7 @@ $$
 ただし、この方法では文中に
 <img src="https://latex.codecogs.com/gif.latex?e^{i\theta}&space;=&space;\cos{\theta}&space;&plus;&space;i\sin{\theta}" />
 と入れるとずれるため、readmeでは数式を書かず、jupyter-notebookとか使うとよいかな。
+$\gamma$を入れると。
 
 [jupyter-notebookへのリンク](readme.ipynb)
 
