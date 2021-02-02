@@ -44,3 +44,7 @@ workspace直下に`.gitignore`ファイルを作成し、当該ファイルパ�
 
 - [Visual studio codeで.vscodeディレクトリをgit管理から外す](https://qiita.com/EngTks/items/a4f875956f0b087668f6)
 - [リモートブランチに.gitignoreをpushせずに管理する方法](https://qiita.com/Nshota/items/08d423d9681fe9cfd744)
+
+## 新しいブランチを作成する
+
+プロジェクトのトップページのbranchボタンを押下後、branch名を入力することで新しいブランチが作成できる。
